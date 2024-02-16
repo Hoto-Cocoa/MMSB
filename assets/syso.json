@@ -1,0 +1,37 @@
+{
+  "Icons": [
+    {
+      "ID": 1,
+      "Path": "assets/icon.ico"
+    }
+  ],
+  "Manifest": {
+    "ID": 1,
+    "Path": "assets/app.manifest"
+  },
+  "VersionInfos": [
+    {
+      "ID": 1,
+      "StringTables": [
+        {
+          "Language": "0409",
+          "Charset": "04b0",
+          "Strings": {
+            "CompanyName": "Hoto-Cocoa",
+            "FileDescription": "Misskey Mention Spammers Blocker",
+            "InternalName": "MMSB",
+            "LegalCopyright": "\u00a9 MMSB Contributors, All rights reserved.",
+            "OriginalFilename": "MMSB.exe",
+            "ProductName": "MMSB"
+          }
+        }
+      ],
+      "Translations": [
+        {
+          "Language": "0409",
+          "Charset": "04b0"
+        }
+      ]
+    }
+  ]
+}
