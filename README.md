@@ -2,7 +2,7 @@
 Misskey Mention Spamming Blocker
 
 ## Usage
-1. Download the latest release from [here](/releases).
+1. Download the latest release from [here](https://github.com/Hoto-Cocoa/MMSB/releases).
 2. Run the `run.bat` file.
 3. Follow the instructions.
 
