@@ -165,7 +165,7 @@ func isTargetNote(note MiNote) bool {
 	isPublic := note.Visibility == "public"
 	noAvatar := note.User.AvatarBlurhash == nil
 
-	debugLog("%d", len(note.Mentions))
+	debugLog("Mentions: %d\n", len(note.Mentions))
 
 	debugLog("Note %s: userIsNew=%t, manyMentions=%t, isPublic=%t, noAvatar=%t\n", note.Id, userIsNew, manyMentions, isPublic, noAvatar)
 
